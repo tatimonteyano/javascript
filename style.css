@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lugrasimo&display=swap');
+
+#carouselExampleCaptions .carousel-inner{
+    width: 100%;
+    height:  500px;
+}
+
+#carouselExampleCaptions .carousel-item{
+    width: 100%;
+    height:  500px;
+
+}
+
+#carouselExampleCaptions .carousel-item{
+    width: 100%;
+    height:  500px;
+
+}
+.collapse .navbar-brand{
+ height: fit-content;
+ width: fit-content;
+}
